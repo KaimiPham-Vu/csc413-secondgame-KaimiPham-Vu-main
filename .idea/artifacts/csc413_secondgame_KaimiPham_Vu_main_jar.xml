@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="csc413-secondgame-KaimiPham-Vu-main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/csc413_secondgame_KaimiPham_Vu_main_jar</output-path>
+    <root id="archive" name="csc413-secondgame-KaimiPham-Vu-main.jar">
+      <element id="module-output" name="csc413-secondgame-KaimiPham-Vu-main" />
+    </root>
+  </artifact>
+</component>
